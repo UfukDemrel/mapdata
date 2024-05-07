@@ -9,8 +9,8 @@
     "menu": [
       "name1": "Sıcak İçecekler",
       "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri",
-    ],
+      "name3": "Tatlı Çeşitleri"
+    ]
   },
   {
     "id": "coffe2",
@@ -22,8 +22,8 @@
     "menu": [
       "name1": "Sıcak İçecekler",
       "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri",
-    ],
+      "name3": "Tatlı Çeşitleri"
+    ]
   },
   {
     "id": "coffe3",
@@ -35,8 +35,8 @@
     "menu": [
       "name1": "Sıcak İçecekler",
       "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri",
-    ],
+      "name3": "Tatlı Çeşitleri"
+    ]
   },
   {
     "id": "coffe4",
@@ -48,7 +48,7 @@
     "menu": [
       "name1": "Sıcak İçecekler",
       "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri",
-    ],
+      "name3": "Tatlı Çeşitleri"
+    ]
   }
 ]
