@@ -1,54 +1,54 @@
 [
   {
-    "id": "coffe1",
+    "id": "coffee1",
     "title": "Starbucks & Özal",
     "lat": "41.9786",
     "lng": "-87.9047",
     "image": "https://wallpapers.com/images/featured/starbucks-ack1avygrxnhaxjq.jpg",
     "description": "Relaxing hours",
     "menu": [
-      "name1": "Sıcak İçecekler",
-      "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri"
+      {"name": "Sıcak İçecekler"},
+      {"name": "Soğuk İçecekler"},
+      {"name": "Tatlı Çeşitleri"}
     ]
   },
   {
-    "id": "coffe2",
+    "id": "coffee2",
     "title": "Soulmate & Özal",
     "lat": "41.927118",
     "lng": "-87.697621",
     "image": "https://media.licdn.com/dms/image/C4E1BAQHAKEiwPMIU4Q/company-background_10000/0/1584569238156/soulmate_coffee_cover?e=2147483647&v=beta&t=cizh77FzwyGUAleLp5HfYpbnMLZODcAj4ZSMwW-Amgw",
     "description": "Views and coffee",
     "menu": [
-      "name1": "Sıcak İçecekler",
-      "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri"
+      {"name": "Sıcak İçecekler"},
+      {"name": "Soğuk İçecekler"},
+      {"name": "Tatlı Çeşitleri"}
     ]
   },
   {
-    "id": "coffe3",
+    "id": "coffee3",
     "title": "Kahve Dünyası & Özal",
     "lat": "41.921735",
     "lng": "-87.664688",
     "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bfe3e79592869.5cdeb80750008.jpg",
     "description": "Coffee journey",
     "menu": [
-      "name1": "Sıcak İçecekler",
-      "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri"
+      {"name": "Sıcak İçecekler"},
+      {"name": "Soğuk İçecekler"},
+      {"name": "Tatlı Çeşitleri"}
     ]
   },
   {
-    "id": "coffe4",
+    "id": "coffee4",
     "title": "Chocolabs & Özal",
     "lat": "41.927568",
     "lng": "-87.705201",
     "image": "https://images.alphacoders.com/133/1330494.png",
     "description": "Chocolate waterfall",
     "menu": [
-      "name1": "Sıcak İçecekler",
-      "name2": "Soğuk İçecekler",
-      "name3": "Tatlı Çeşitleri"
+      {"name": "Sıcak İçecekler"},
+      {"name": "Soğuk İçecekler"},
+      {"name": "Tatlı Çeşitleri"}
     ]
   }
 ]
