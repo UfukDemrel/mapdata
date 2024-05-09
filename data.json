@@ -7,35 +7,44 @@
     "image": "https://wallpapers.com/images/featured/starbucks-ack1avygrxnhaxjq.jpg",
     "description": "Relaxing hours",
     "menu": [
-      { 
+      {
         "id": "menu1",
-       "name": "Sıcak İçecekler"
-       "data": [
-          "prod1": [
-           "id": "hot1",
-           "name": "Zerdeçallı Latte",
-           "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/10032021_GoldenTurmericLatte_LS-min.png"
-          ],
-           "prod2": [
-           "id": "hot2",
-           "name": "Latte Macchiato",
-           "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/10032021_LATTE_MACCHIATO_LS-min.png"
-          ],
-           "prod3": [
-           "id": "hot3",
-           "name": "Vanilla Latte",
-           "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/AppealShot%20-%20Vanilla%20Latte_25Jan.png"
-          ]
-       ]
+        "name": "Sıcak İçecekler",
+        "data": [
+          {
+            "id": "hot1",
+            "name": "Zerdeçallı Latte",
+            "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/10032021_GoldenTurmericLatte_LS-min.png"
+          },
+          {
+            "id": "hot2",
+            "name": "Latte Macchiato",
+            "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/10032021_LATTE_MACCHIATO_LS-min.png"
+          },
+          {
+            "id": "hot3",
+            "name": "Vanilla Latte",
+            "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/AppealShot%20-%20Vanilla%20Latte_25Jan.png"
+          }
+        ]
       },
-      { 
+      {
         "id": "menu2",
-       "name": "Soğuk İçecekler"
-       "data": [
-          "prod1": "Iced Latte",
-          "prod2": "Iced Caramel Macchiato",
-          "prod3": "Naneli Köpüklü Espresso"
-       ]
+        "name": "Soğuk İçecekler",
+        "data": [
+          {
+            "id": "cold1",
+            "name": "Iced Latte"
+          },
+          {
+            "id": "cold2",
+            "name": "Iced Caramel Macchiato"
+          },
+          {
+            "id": "cold3",
+            "name": "Naneli Köpüklü Espresso"
+          }
+        ]
       }
     ]
   },
