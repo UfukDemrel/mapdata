@@ -16,7 +16,7 @@
           {
             "id": "hot1",
             "name": "Zerdeçallı Latte",
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/grammer.png?v=1715440341",
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim.png?v=1715526997",
             "size": [
             {
               "id": "size1",
@@ -35,7 +35,21 @@
           {
             "id": "hot2",
             "name": "Latte Macchiato",
-            "image": "https://www.starbucksathome.com/tr/sites/default/files/2022-04/10032021_LATTE_MACCHIATO_LS-min.png"
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1.png?v=1715527464",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small"
+            },
+            {
+              "id": "size2",
+              "name": "Middle"
+            },
+            {
+              "id": "size3",
+              "name": "Large"
+            }
+          ]
           },
           {
             "id": "hot3",
