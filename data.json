@@ -86,31 +86,5 @@
       {"name": "Soğuk İçecekler"},
       {"name": "Tatlı Çeşitleri"}
     ]
-  },
-  {
-    "id": "coffee3",
-    "title": "Kahve Dünyası & Özal",
-    "lat": "41.921735",
-    "lng": "-87.664688",
-    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bfe3e79592869.5cdeb80750008.jpg",
-    "description": "Coffee journey",
-    "menu": [
-      {"name": "Sıcak İçecekler"},
-      {"name": "Soğuk İçecekler"},
-      {"name": "Tatlı Çeşitleri"}
-    ]
-  },
-  {
-    "id": "coffee4",
-    "title": "Chocolabs & Özal",
-    "lat": "41.927568",
-    "lng": "-87.705201",
-    "image": "https://images.alphacoders.com/133/1330494.png",
-    "description": "Chocolate waterfall",
-    "menu": [
-      {"name": "Sıcak İçecekler"},
-      {"name": "Soğuk İçecekler"},
-      {"name": "Tatlı Çeşitleri"}
-    ]
   }
 ]
