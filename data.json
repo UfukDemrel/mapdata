@@ -16,9 +16,11 @@
           {
             "id": "hot1",
             "name": "Zerdeçallı Latte",
+            "size": [
             "size1": "Small",
             "size2": "Middle",
             "size3": "Large",
+            ],
             "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/10032021_GoldenTurmericLatte_CS-min.webp?v=1715440817"
           },
           {
