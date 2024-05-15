@@ -20,15 +20,18 @@
             "size": [
             {
               "id": "size1",
-              "name": "Small"
+              "name": "Small",
+              "price": "15"
             },
             {
               "id": "size2",
-              "name": "Middle"
+              "name": "Middle",
+              "price": "20"
             },
             {
               "id": "size3",
-              "name": "Large"
+              "name": "Large",
+              "price": "25"
             }
           ]
           },
