@@ -16,23 +16,23 @@
           {
             "id": "hot1",
             "name": "Zerdeçallı Latte",
-            "price": "100",
+            "price": 100,
             "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim.png?v=1715526997",
             "size": [
             {
               "id": "size1",
               "name": "Small",
-              "price": "15"
+              "price": 15
             },
             {
               "id": "size2",
               "name": "Middle",
-              "price": "20"
+              "price": 20
             },
             {
               "id": "size3",
               "name": "Large",
-              "price": "25"
+              "price": 25
             }
           ]
           },
