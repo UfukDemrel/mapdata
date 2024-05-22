@@ -39,19 +39,23 @@
           {
             "id": "hot2",
             "name": "Latte Macchiato",
+            "price": 100,
             "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1.png?v=1715527464",
             "size": [
-            {
+           {
               "id": "size1",
-              "name": "Small"
+              "name": "Small",
+              "price": 0
             },
             {
               "id": "size2",
-              "name": "Middle"
+              "name": "Middle",
+              "price": 15
             },
             {
               "id": "size3",
-              "name": "Large"
+              "name": "Large",
+              "price": 25
             }
           ]
           }
