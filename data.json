@@ -22,12 +22,12 @@
             {
               "id": "size1",
               "name": "Small",
-              "price": 15
+              "price": 0
             },
             {
               "id": "size2",
               "name": "Middle",
-              "price": 20
+              "price": 15
             },
             {
               "id": "size3",
