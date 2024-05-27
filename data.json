@@ -1,6 +1,7 @@
 [
   {
     "id": "coffee1",
+    "color":"bg-green-300",
     "title": "Starbucks & Özal",
     "lat": "37.003529",
     "lng": "35.314283",
