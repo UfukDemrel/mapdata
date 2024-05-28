@@ -40,10 +40,33 @@
           {
             "id": "hot2",
             "name": "Latte Macchiato",
-            "price": 100,
+            "price": 88,
             "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1.png?v=1715527464",
             "size": [
            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },          
+          {
+            "id": "hot3",
+            "name": "Vanilla Lattle",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_e48f3647-cee5-4fa9-b93c-4838a2363a71.png?v=1716900175",
+            "size": [
+            {
               "id": "size1",
               "name": "Small",
               "price": 0
