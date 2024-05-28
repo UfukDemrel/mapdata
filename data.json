@@ -114,12 +114,96 @@
         "icon": "https://kalorisor.com/uploads/images/urun/starbucks-cold-brew-latte.jpg",
         "data": [
           {
-            "id": "cold1",
-            "name": "Iced Latte"
+            "id": "hot1",
+            "name": "Iced Caramel Latte",
+            "price": 110,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_2f4f17e0-1e6c-4d39-abc8-59394509492f.png?v=1716928873",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+           {
+            "id": "hot2",
+            "name": "Iced Caramel Macchiato",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_aaf4649a-d447-4567-8308-42b2d2763200.png?v=1716928723",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
           },
           {
-            "id": "cold2",
-            "name": "Iced Caramel Macchiato"
+            "id": "hot3",
+            "name": "Caramel Latte",
+            "price": 90,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_2f4f17e0-1e6c-4d39-abc8-59394509492f.png?v=1716928873",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+          {
+            "id": "hot4",
+            "name": "Naneli Köpüklü Espresso",
+            "price": 90,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_5f4a84e5-c329-4c29-b1da-fd6231e222c0.png?v=1716929060",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
           }
         ]
       }
