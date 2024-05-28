@@ -82,6 +82,29 @@
               "price": 25
             }
           ]
+          },
+          {
+            "id": "hot4",
+            "name": "Mocha",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1_346afe65-50d9-46cc-91db-f9620f91e46e.png?v=1716900782",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
           }
         ]
       },
