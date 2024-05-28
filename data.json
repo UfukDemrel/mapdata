@@ -82,6 +82,7 @@
   {
     "id": "coffee2",
     "title": "Soulmate & Özal",
+    "color":"bg-rose-300",
     "lat": "41.927118",
     "lng": "-87.697621",
     "image": "https://media.licdn.com/dms/image/C4E1BAQHAKEiwPMIU4Q/company-background_10000/0/1584569238156/soulmate_coffee_cover?e=2147483647&v=beta&t=cizh77FzwyGUAleLp5HfYpbnMLZODcAj4ZSMwW-Amgw",
