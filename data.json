@@ -249,9 +249,9 @@
           },
           {
             "id": "hot2",
-            "name": "Latte Macchiato",
-            "price": 88,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1.png?v=1715527464",
+            "name": "Sıcak Çikolata",
+            "price": 80,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_3_1a42eb52-9fb3-427b-81ee-abae60158157.png?v=1717167733",
             "size": [
            {
               "id": "size1",
@@ -272,9 +272,9 @@
           },          
           {
             "id": "hot3",
-            "name": "Vanilla Lattle",
-            "price": 95,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_e48f3647-cee5-4fa9-b93c-4838a2363a71.png?v=1716900175",
+            "name": "Beyaz Çikolata",
+            "price": 80,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_3_06d0129f-6b1f-4db9-87cc-e4b7884387f8.png?v=1717167867",
             "size": [
             {
               "id": "size1",
@@ -297,7 +297,7 @@
             "id": "hot4",
             "name": "Mocha",
             "price": 95,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1_346afe65-50d9-46cc-91db-f9620f91e46e.png?v=1716900782",
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_3_06d0129f-6b1f-4db9-87cc-e4b7884387f8.png?v=1717167867",
             "size": [
             {
               "id": "size1",
@@ -325,9 +325,9 @@
         "data": [
           {
             "id": "hot1",
-            "name": "Iced Caramel Latte",
-            "price": 110,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_2f4f17e0-1e6c-4d39-abc8-59394509492f.png?v=1716928873",
+            "name": "Iced Latte",
+            "price": 100,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_f9b9b498-85d3-476a-af78-f97d52eab805.png?v=1717168245",
             "size": [
             {
               "id": "size1",
@@ -348,9 +348,9 @@
           },
            {
             "id": "hot2",
-            "name": "Iced Caramel Macchiato",
-            "price": 95,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_aaf4649a-d447-4567-8308-42b2d2763200.png?v=1716928723",
+            "name": "Mocha Coconut Frappucino",
+            "price": 105,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_4a0fe2bd-b6fa-46f9-84a0-fa3a7045c07f.png?v=1717168394",
             "size": [
             {
               "id": "size1",
@@ -394,9 +394,9 @@
           },
           {
             "id": "hot4",
-            "name": "Naneli Köpüklü Espresso",
+            "name": "Ice Mocha",
             "price": 90,
-            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_5f4a84e5-c329-4c29-b1da-fd6231e222c0.png?v=1716929060",
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_01d3a19a-1aa2-466e-a658-14a18e5b4e8e.png?v=1717168554",
             "size": [
             {
               "id": "size1",
