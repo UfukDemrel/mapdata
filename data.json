@@ -211,16 +211,212 @@
   },
   {
     "id": "coffee2",
+    "color":"bg-orange-500",
     "title": "Soulmate & Özal",
-    "color":"bg-rose-300",
-    "lat": "41.927118",
-    "lng": "-87.697621",
+    "lat": "37.0143",
+    "lng": "35.3021",
     "image": "https://media.licdn.com/dms/image/C4E1BAQHAKEiwPMIU4Q/company-background_10000/0/1584569238156/soulmate_coffee_cover?e=2147483647&v=beta&t=cizh77FzwyGUAleLp5HfYpbnMLZODcAj4ZSMwW-Amgw",
+    "image2": "https://stories.starbucks.com/uploads/2021/11/Starbucks-Virtual-Backgrounds-Holiday-Cups-2021.jpg",
     "description": "Views and coffee",
     "menu": [
-      {"name": "Sıcak İçecekler"},
-      {"name": "Soğuk İçecekler"},
-      {"name": "Tatlı Çeşitleri"}
+      {
+        "id": "menu1",
+        "name": "Sıcak İçecekler",
+        "icon": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1_f9f4ea2d-1128-4b5a-b049-15962aa14ec3.png?v=1717165442",
+        "data": [
+          {
+            "id": "hot1",
+            "name": "Zerdeçallı Latte",
+            "price": 100,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim.png?v=1715526997",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+          {
+            "id": "hot2",
+            "name": "Latte Macchiato",
+            "price": 88,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1.png?v=1715527464",
+            "size": [
+           {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },          
+          {
+            "id": "hot3",
+            "name": "Vanilla Lattle",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_e48f3647-cee5-4fa9-b93c-4838a2363a71.png?v=1716900175",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+          {
+            "id": "hot4",
+            "name": "Mocha",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_1_346afe65-50d9-46cc-91db-f9620f91e46e.png?v=1716900782",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          }
+        ]
+      },
+      {
+        "id": "menu2",
+        "name": "Soğuk İçecekler",
+        "icon": "https://kalorisor.com/uploads/images/urun/starbucks-cold-brew-latte.jpg",
+        "data": [
+          {
+            "id": "hot1",
+            "name": "Iced Caramel Latte",
+            "price": 110,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_2f4f17e0-1e6c-4d39-abc8-59394509492f.png?v=1716928873",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+           {
+            "id": "hot2",
+            "name": "Iced Caramel Macchiato",
+            "price": 95,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_aaf4649a-d447-4567-8308-42b2d2763200.png?v=1716928723",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+          {
+            "id": "hot3",
+            "name": "Iced Latte",
+            "price": 90,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_cf06aca1-0e7b-4182-b3e6-2426c627c1a6.png?v=1716930285",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          },
+          {
+            "id": "hot4",
+            "name": "Naneli Köpüklü Espresso",
+            "price": 90,
+            "image": "https://cdn.shopify.com/s/files/1/0659/7132/3098/files/Adsiz_tasarim_5f4a84e5-c329-4c29-b1da-fd6231e222c0.png?v=1716929060",
+            "size": [
+            {
+              "id": "size1",
+              "name": "Small",
+              "price": 0
+            },
+            {
+              "id": "size2",
+              "name": "Middle",
+              "price": 15
+            },
+            {
+              "id": "size3",
+              "name": "Large",
+              "price": 25
+            }
+          ]
+          }
+        ]
+      }
     ]
   }
 ]
